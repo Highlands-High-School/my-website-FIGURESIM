@@ -1,5 +1,8 @@
- header{
+ header {
    border-bottom: black; border-bottom-style: solid;
    display: flex; align-items: center; gap: 10px;
 text-align: center; font-size: 100%; 
  }
+ h1 {
+   margin: 0; font-size: 2em;
+}
